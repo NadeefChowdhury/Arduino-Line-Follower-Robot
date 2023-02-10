@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"L293D Motor driver",1," H-bridge Motor Driver"
+"Arduino Uno R3",1," Arduino Uno R3"
+"Battery",1," 9V Battery"
+"Motor 1, Motor 2",2," DC Motor"
+"Sensor 1, Sensor 2",2," IR sensor"
